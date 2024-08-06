@@ -2,7 +2,7 @@
 
 Servicio para administrar usuarios
 
-### Funcionalidades:
+### Funcionalidades
 
 - Registrar usuario
 - Login de usuario
