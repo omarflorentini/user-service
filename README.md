@@ -1,6 +1,6 @@
 # Users service
 
-Servicio para administrar usuarios.
+Servicio para administrar usuarios
 
 ### Funcionalidades:
 
